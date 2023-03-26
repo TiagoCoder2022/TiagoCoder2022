@@ -1,31 +1,16 @@
 ### Hi there! I'm Tiago Alves 👋
 
-<!--
-**TiagoCoder2022/TiagoCoder2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 31-year-old Jaraguá do Sul native, fueled by a passion for programming and a bottomless cup of coffee ☕. As a budding bug hunter, I thrive on the challenge of uncovering hidden glitches and improving my skills. The more I delve into the world of programming, the more my love for it grows, igniting a fire that can only be quenched by lines of code and endless streams of caffeine." ❤
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=TiagoCoder2022&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=TiagoCoder2022&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=TiagoCoder2022&show_icons=true" />
-</picture>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/119512258/227801838-e31820dc-f650-417b-80a7-2804b7a33f41.gif" width="350">
+</p>
+
+
+### 🖥️ Technologies and Tools:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,4 +20,29 @@ Here are some ideas to get you started:
   <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div>
 
+</br>
+
+📫 Where you can find me:
+
+</br>
+
+<a href="https://www.instagram.com/_tiagoalves" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://twitter.com/_tiago_a" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://www.linkedin.com/in/tiago-alves-142ba3248/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
 ##
+  
+<picture>  
+  <source srcset="https://github-readme-stats.vercel.app/api?username=TiagoCoder2022&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"/>  
+  <source srcset="https://github-readme-stats.vercel.app/api?username=TiagoCoder2022&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=TiagoCoder2022&show_icons=true" />
+</picture>
+
+---
+  
+and you can get to know my already developed projects, which are available here in the repositories. =)
+    
+
