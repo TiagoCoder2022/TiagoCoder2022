@@ -1,7 +1,6 @@
-### Hi there! I'm Tiago Alves 👋
+### Hey, welcome! I'm Tiago Alves 👋
 
-I'm a 31-year-old Jaraguá do Sul native, fueled by a passion for programming and a bottomless cup of coffee ☕. As a budding bug hunter, I thrive on the challenge of uncovering hidden glitches and improving my skills. The more I delve into the world of programming, the more my love for it grows, igniting a fire that can only be quenched by lines of code and endless streams of caffeine." ❤
-
+I'm a 31-year-old Jaraguá do Sul native, fueled by a passion for programming and a bottomless cup of coffee ☕
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/119512258/227801838-e31820dc-f650-417b-80a7-2804b7a33f41.gif" width="350">
@@ -52,6 +51,6 @@ I'm a 31-year-old Jaraguá do Sul native, fueled by a passion for programming an
 
 ---
   
-and you can get to know my already developed projects, which are available here in the repositories. =)
+You can get to know my already developed projects, which are available here in the repositories. =)
     
 
