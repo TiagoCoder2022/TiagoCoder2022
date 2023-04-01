@@ -1,6 +1,6 @@
 ### Hey, welcome! I'm Tiago Alves 👋
 
-I'm a 31-year-old Jaraguá do Sul native, fueled by a passion for programming and a bottomless cup of coffee ☕
+I'm a Front-end developer, fueled by a passion for programming and a bottomless cup of coffee ☕
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/119512258/227801838-e31820dc-f650-417b-80a7-2804b7a33f41.gif" width="350">
