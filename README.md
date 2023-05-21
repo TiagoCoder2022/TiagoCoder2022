@@ -1,9 +1,9 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Tiago Alves</h1>
 <h3 align="center">I'm a Front-end developer, fueled by a passion for programming and a bottomless cup of coffee ☕</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/TiagoCoder2022/Landing-Page-Headphone/assets/119512258/f9851b4d-2cb1-4b67-9b61-76702e7b631b">
 
-
+<!--https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TiagoCoder2022&label=Profile%20views&color=0e75b6&style=flat" alt="TiagoCoder2022" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_tiago_a" target="blank"><img src="https://img.shields.io/twitter/follow/_tiago_a?logo=twitter&style=for-the-badge" alt="TiagoCoder2022" /></a> </p>
