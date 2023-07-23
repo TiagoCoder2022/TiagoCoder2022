@@ -1,7 +1,8 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Tiago Alves</h1>
 <h3 align="center">I'm a Front-end developer, fueled by a passion for programming and a bottomless cup of coffee ☕</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/TiagoCoder2022/Landing-Page-Headphone/assets/119512258/f9851b4d-2cb1-4b67-9b61-76702e7b631b">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+
 
 <!--https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TiagoCoder2022&label=Profile%20views&color=0e75b6&style=flat" alt="TiagoCoder2022" /> </p>
@@ -33,10 +34,14 @@
   <img align="center" alt="Tiago-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Tiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Tiago-Tailwind" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png">
 </div>
 
 </br>
+
+ <img align="center" alt="pacman" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
 
 
 
