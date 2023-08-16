@@ -1,4 +1,6 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+<!--![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)-->
+
+<p align="center"><img align="center" alt="pacman" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></p> 
 
 <p align="center">
  
@@ -9,9 +11,13 @@
 
 </p>
 
+
+
 <h1 align="center">Hi 👋, I'm Tiago Alves</h1>
 <h3 align="center">I'm a Front-end developer, fueled by a passion for programming and a bottomless cup of coffee ☕</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+
+
 
 
 <!--https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif-->
@@ -52,7 +58,7 @@
 
 </br>
 
-<p align="center"><img align="center" alt="pacman" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></p> 
+
 
 
 
