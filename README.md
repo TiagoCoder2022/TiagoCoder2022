@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Build my portifolio**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue and Java**
 
 - 💬 Ask me about **Javascript**
 
