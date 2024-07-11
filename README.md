@@ -9,7 +9,7 @@
 </p>
 <p align="center"><img align="center" alt="pacman" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></p> 
 
-<h3 align="center">I'm a Front-end developer, fueled by a passion for programming and a bottomless cup of coffee ☕</h3>
+<h3 align="center">I'm a Full-Stack developer, fueled by a passion for programming and a bottomless cup of coffee ☕</h3>
 
 ##
 
