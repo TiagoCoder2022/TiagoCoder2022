@@ -1,15 +1,29 @@
-<!--![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<h1 align="center">Hi 👋, I'm Tiago Alves</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Tiago+Alves;I+am+a+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TiagoCoder2022&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Tiago Alves github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCoder2022&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TiagoCoder2022&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--<h1 align="center">Hi 👋, I'm Tiago Alves</h1>
 <p align="center"> 
  <img src="https://badges.pufler.dev/visits/TiagoCoder202/TiagoCoder2022"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/TiagoCoder2022"/>
+<!-- <img src="https://badges.pufler.dev/repos/TiagoCoder2022"/>
  <img src="https://badges.pufler.dev/commits/monthly/TiagoCoder2022" />
 </p>
 <p align="center"><img align="center" alt="pacman" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></p> 
 
-<h3 align="center">I'm a Full-Stack developer, fueled by a passion for programming and a bottomless cup of coffee ☕</h3>
+<h3 align="center">I'm a Full-Stack developer, fueled by a passion for programming and a bottomless cup of coffee ☕</h3>-->
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{TiagoCoder2022}/count.svg" /></p> 
+<br></div>
 
 ##
 
@@ -65,17 +79,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TiagoCoder2022&show_icons=true" />
 </picture>-->
   
-<div>
+<!--<div>
   <a href="https://github.com/TiagoCoder2022">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCoder2022&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoCoder2022&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   
-</div>
-  
-</br> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoCoder2022&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+</div>-->
  
 
----
-  
+
 You can get to know my already developed projects, which are available here in the repositories. =)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
     
 
